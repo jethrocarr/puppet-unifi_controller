@@ -38,11 +38,11 @@ class unifi_controller (
   }
 
   # Ensure the daemon is running and configured to launch at boot
-#  service { 'unifi-controller':
-#    ensure    => 'running',
-#    enable    => true,
-#    require   => Exec['unifi_controller_install'],
-#  }
+  service { 'unifi':
+    ensure    => 'running',
+    enable    => true,
+    require   => Exec['unifi_controller_install'],
+  }
 
 
   # If the non-default port is requested, setup redirect using NAT rules and
