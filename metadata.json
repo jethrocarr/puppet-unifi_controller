@@ -4,9 +4,9 @@
   "author": "jethrocarr",
   "summary": "Provisions Ubiquiti's network controller software",
   "license": "Apache-2.0",
-  "source": "https://github.com/jethrocarr/puppet-unfi_controller",
-  "project_page": "https://github.com/jethrocarr/puppet-unfi_controller",
-  "issues_url": "https://github.com/jethrocarr/puppet-unfi_controller/issues",
+  "source": "https://github.com/jethrocarr/puppet-unifi_controller",
+  "project_page": "https://github.com/jethrocarr/puppet-unifi_controller",
+  "issues_url": "https://github.com/jethrocarr/puppet-unifi_controller/issues",
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
   ]
