@@ -1,6 +1,6 @@
 {
   "name": "jethrocarr/unifi_controller",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "jethrocarr",
   "summary": "Provisions Ubiquiti's network controller software",
   "license": "Apache-2.0",
