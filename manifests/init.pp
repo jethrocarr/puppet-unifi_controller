@@ -1,6 +1,6 @@
 # Installs the Ubiquiti UniFi network controller software.
 class unifi_controller (
-  $app_version    = '5.3.8',
+  $app_version    = '5.5.20',
   $app_https_port = '8443',
   ) {
 
